@@ -1,0 +1,18 @@
+.SavedWords {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 80rem;
+  margin: auto;
+}
+
+.tableContainer {
+  width: 100%;
+  overflow-x: scroll;
+}
+
+@media screen and (max-width: 71.25em) {
+  .SavedWords {
+    width: 90%;
+    margin: auto;
+  }
+}

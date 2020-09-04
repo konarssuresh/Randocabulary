@@ -1,0 +1,19 @@
+.Login {
+  width: 40rem;
+  height: 40rem;
+  margin: auto;
+  padding-top: 20rem;
+}
+.Login h2 {
+  margin: auto;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .Login {
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    padding-top: 10rem;
+  }
+}
